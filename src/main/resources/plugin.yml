@@ -1,0 +1,8 @@
+name: MoxCore
+author: Morkazoid
+version: 0.1
+depend: []
+softdepend: []
+description: "Morkazoids library core plugin. Created for GC2.PL Network"
+main: com.morkaz.moxcore.MoxCore
+api-version: 1.13
